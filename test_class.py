@@ -1,5 +1,5 @@
 class TestClass:
-    name = "my name"
+    name = "my hame"
     
     def test_one(self):
         assert 'h' in self.name
